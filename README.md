@@ -1,6 +1,3 @@
-Here's how the content can be formatted and added to a README file for the Dice Game repository:
-
-```markdown
 # Dice Game 🎲
 
 A simple dice game made with C#.
